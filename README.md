@@ -2,7 +2,7 @@
 
 **唐图开源社区内核组件**
 
-The reuseable rust-based kernel crates for Unikernel, Monolithic Kernel, Micro Kernel, RTOS, Hypervisor, Drivers... 
+The reuseable rust-based kernel crates for Unikernel, Monolithic Kernel, Micro Kernel, RTOS, Hypervisor, Device Drivers... 
 ## Unikernel
 - [ArceOS-Crates](https://github.com/arceos-org/arceos-crates)
 
@@ -12,7 +12,7 @@ The reuseable rust-based kernel crates for Unikernel, Monolithic Kernel, Micro K
 ## Hpervisor
 - [AxVisor-Crates](https://github.com/arceos-hypervisor/axdevice_crates)
 
-## Driver
+## Device Driver
 - [Driver-Crates](https://github.com/drivercraft/driver-crates)
 
 ## hub of kernel crates
